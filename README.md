@@ -2,7 +2,7 @@
 {
   "firstName" : "Amine",
   "lastName" : "Rahmouni",
-  "specialty" : [ "TypeScript React developlent", "React native cross platform development" ],
+  "specialty" : [ "TypeScript Mern developler", "React native cross platform developer" ],
   "skills" : [
     "C programming language", "Assembly language fundamental", "Algorithm & Data structures", "Python", "NodeJS", "Flask", "Html5 & Css3", "Scss", "Javascript", "Typescript", "ReactJs", "Linux", "React Native"
   ],
