@@ -10,6 +10,7 @@
     "Python", 
     "NodeJS", 
     "Flask", 
+    "Sql"
     "Html5 & Css3", 
     "Scss", 
     "Javascript", 
