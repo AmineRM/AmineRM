@@ -4,7 +4,7 @@
   "lastName" : "Rahmouni",
   "specialty" : [ "TypeScript Mern developler", "React native cross platform developer" ],
   "skills" : [
-    "C++, 
+    "C++", 
     "Assembly language fundamental", 
     "Algorithm & Data structures", 
     "Python", 
