@@ -16,7 +16,7 @@
     "Javascript", 
     "Typescript", 
     "ReactJs", 
-    "Linux", 
+    "Linux (Bash)", 
     "React Native"
   ],
   "job" : "Freelancer",
