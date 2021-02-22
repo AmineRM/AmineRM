@@ -2,7 +2,7 @@
 {
   "firstName" : "Amine",
   "lastName" : "Rahmouni",
-  "specialty" : [ "TypeScript Mern developler", "React native cross platform developer" ],
+  "specialty" : [ "Full stack python developler", "React native cross platform developer" ],
   "skills" : [
     "C/C++", 
     "Assembly language fundamental", 
