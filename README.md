@@ -19,6 +19,7 @@
     "Linux",
     "Bash",
     "React Native"
+    "vsCode/Vim"
   ],
   "job" : "Freelancer",
   "live_in" : "Morocco",
