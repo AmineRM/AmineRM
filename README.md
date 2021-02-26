@@ -18,7 +18,7 @@
     "ReactJs", 
     "Linux",
     "Bash",
-    "React Native"
+    "React Native",
     "vsCode/Vim"
   ],
   "job" : "Freelancer",
