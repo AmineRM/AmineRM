@@ -9,7 +9,7 @@
     "Algorithm & Data structures", 
     "Python", 
     "NodeJS", 
-    "Flask", 
+    "Django", 
     "Sql"
     "Html5 & Css3", 
     "Scss", 
