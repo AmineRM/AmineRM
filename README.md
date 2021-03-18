@@ -2,24 +2,34 @@
 {
   "firstName" : "Amine",
   "lastName" : "Rahmouni",
-  "specialty" : [ "Full stack python developler", "React native cross platform developer" ],
-  "skills" : [
-    "C/C++", 
-    "Assembly language fundamental", 
-    "Algorithm & Data structures", 
-    "Python", 
-    "NodeJS", 
-    "Django", 
-    "Sql"
+  "specialty" : "Full stack web developler",
+  "Web development" : [
     "Html5 & Css3", 
-    "Scss", 
-    "Javascript", 
-    "Typescript", 
     "ReactJs", 
-    "Linux",
+    "Scss"
+    "Django", 
+    "Flask"
+  ],
+  "languages" : [
+    "Assembly"
+    "Python",
+    "C/C++",
+    "NodeJs",
+    "Typescript",
     "Bash",
-    "React Native",
-    "vsCode/Vim"
+     "SQL"
+  ],
+  "tools" : [
+    "git/github",
+    "vsCode",
+    "Vim",
+    "Linux"
+  ],
+  "more skills" : [
+    "Algorithm", 
+    "Data structure",
+    "Problem solving",
+    "Network"
   ],
   "job" : "Freelancer",
   "live_in" : "Morocco",
