@@ -6,8 +6,7 @@
   "Web development" : [
     "Html5 & Css3", 
     "ReactJs", 
-    "Scss"
-    "Django", 
+    "Scss",
     "Flask"
   ],
   "languages" : [
@@ -17,10 +16,9 @@
     "NodeJs",
     "Typescript",
     "Bash",
-     "SQL"
+    "SQL"
   ],
   "tools" : [
-    "git/github",
     "vsCode",
     "Vim",
     "Linux"
