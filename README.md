@@ -5,7 +5,7 @@
   "specialty" : "Full stack web developler",
   "Web development" : [
     "Html5 & Css3", 
-    "ReactJs", 
+    "React & ReactDom", 
     "Redux",
     "Scss",
     "Flask"
