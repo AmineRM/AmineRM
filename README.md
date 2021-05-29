@@ -6,9 +6,14 @@
   "Web development" : [
     "Html5 & Css3", 
     "ReactJs", 
+    "Redux",
     "Scss",
     "Flask"
   ],
+  "Cross platform" : {
+    "React native",
+    "Cordova"
+  },
   "languages" : [
     "Assembly"
     "Python",
@@ -16,7 +21,11 @@
     "NodeJs",
     "Typescript",
     "Bash",
-    "SQL"
+    "SQL",
+    "Java",
+    "Php",
+    "Ruby",
+    "Dart"
   ],
   "tools" : [
     "vsCode",
@@ -27,7 +36,8 @@
     "Algorithm", 
     "Data structure",
     "Problem solving",
-    "Network"
+    "Network",
+    "Design pattern"
   ],
   "job" : "Freelancer",
   "live_in" : "Morocco",
