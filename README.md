@@ -10,10 +10,10 @@
     "Scss",
     "Flask"
   ],
-  "Cross platform" : {
+  "Cross platform" : [
     "React native",
     "Cordova"
-  },
+  ],
   "languages" : [
     "Assembly"
     "Python",
