@@ -11,7 +11,7 @@
     "Flask"
   ],
   "Cross platform" : [
-    "React native",
+    "React-native & expo",
     "Cordova"
   ],
   "languages" : [
