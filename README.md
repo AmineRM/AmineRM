@@ -18,7 +18,7 @@
     "Assembly"
     "Python",
     "C/C++",
-    "NodeJs",
+    "NodeJs - Javascript",
     "Typescript",
     "Bash",
     "SQL",
